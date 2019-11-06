@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/UFWebApps/Fall2019_Bootcamp#readme",
   "dependencies": {
-    "mongoose": "^5.7.0",
+    "mongoose": "^5.7.5",
     "should": "^13.2.3"
   }
 }
